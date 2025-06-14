@@ -17,8 +17,8 @@ echo -e '\e[91m
 \e[92m              \ `--` /   \e[93m└─┐├┤ ├┤  \e[92m│ │
 \e[92m               `-..-`    \e[93m└─┘└─┘└─┘ \e[92m└─┘'
 echo
-echo -e '            \e[92m::: Tool By Noob Hackers :::\e[0m'
-echo -e '          \e[92m::: github.com/noob-hackers :::\e[0m'
+echo -e '            \e[92m::: Tool By phoenix :::\e[0m'
+echo -e '          \e[92m::: github.com/PhoenixFury0000 :::\e[0m'
 echo -e "\e[92m"
 echo -e '                \e[100m CaMera HackiNg Tool\e[0m'
 echo
